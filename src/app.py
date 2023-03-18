@@ -25,6 +25,7 @@ df2 = pd.read_csv('HH_decile_shares.csv')
 
 # Define the app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 # Define the layout
 app.layout = dbc.Container([
