@@ -33,3 +33,6 @@ We hope that this app will be a useful tool for anyone interested in learning ab
 
 ## Collaborators
 Mehdi Naji
+
+## Dashboard Link
+📊 [Dashboard Link](https://ihbs-dash.onrender.com/)
