@@ -11,6 +11,17 @@ The main goal of this app is to introduce the "Household Expenditures and Income
 ## Deliverables
 Currently, the app provides intertemporal and intratemporal plots based on the "Household Expenditures and Income Survey" data. Users can choose a year and see a bar plot and treemap plot for household expenditures in that year. Alternatively, users can choose an expenditure category and see how its expenditures have evolved over time. In the future, we plan to add more plots, tables, and features to the app, and to make the dataset itself available for download.
 
+## Usage
+To use the app, simply download the code from the Github repository and run it on your local machine. Make sure to install all the necessary dependencies as outlined in the requirements.txt file.
+
+Once the app is running, you can access it in your web browser by navigating to the appropriate URL. The app will be split into two tabs: "Intertemporal Facts" and "Intratemporal Facts".
+
+In the "Intratemporal Facts" tab, select a year from the dropdown menu to view the corresponding bar plot and treemap plot for household expenditures in Iran for that year. In the "Intertemporal Facts" tab, select an expenditure category and a decile to view a bar plot of how that category's expenditure has evolved over time.
+
+The app also has a theme implemented using the dash_bootstrap_components library, which you can customize to suit your preferences.
+
+Please note that this app is still a work in progress and may be updated with additional features and functionality in the future.
+
 ## Get Involved
 We invite you to contribute to the "Iran Household Expenditure and Income Surveys" project in any way you can. Here are a few ways you can help:
 
